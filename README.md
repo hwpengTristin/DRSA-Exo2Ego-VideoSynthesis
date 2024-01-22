@@ -29,7 +29,7 @@ Some examples of exocentric and egocentric video pairs from the DSO ExoEgo datas
 
 The code is in preparation and will be open soon. Please stay tuned!
 
-## Citing DRSA
+## Citation
 
 ```BibTeX
 @INPROCEEDINGS{,
