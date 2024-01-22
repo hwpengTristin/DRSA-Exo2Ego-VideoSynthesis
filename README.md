@@ -28,3 +28,14 @@ Some examples of exocentric and egocentric video pairs from the DSO ExoEgo datas
 ## Inference and Training Code
 
 The code is in preparation and will be open soon. Please stay tuned!
+
+### Citing DRSA
+
+```BibTeX
+@INPROCEEDINGS{,
+  author    = {xxx},
+  booktitle = {xxx},
+  title     = {Hierarchical Dynamic Memory Refinement and Semantic Alignment for Exo-to-Ego Cross-view Video Generation},
+  year      = {xxxx},
+}
+```
