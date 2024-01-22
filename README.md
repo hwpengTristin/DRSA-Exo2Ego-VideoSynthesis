@@ -3,14 +3,17 @@ For cue-free E2VG problem, we propose a cue-free video-based approach termed hie
 
 ## DSO ExoEgo Dataset
 
+Our dataset includes 819 exo-ego video pairs, totaling approximately 10.8 hours of episodes (totaling 2,328,054 frames). Some examples of scenarios and interacting objects from the DSO ExoEgo dataset. Zoom in for details.
+
 <p align="center">
     <img src="./examples/dataset_scene_object.jpg" width=99%>
 </p>
 
-Some examples of scenarios and interacting objects from the DSO ExoEgo dataset. Zoom in for details.
+The length of the video varies from 270 frames to 5,101 frames, as shown in the figure below. The dataset will be publicly released following the article's acceptance to facilitate the E2VG research.
 
-
-Our dataset includes 819 exo-ego video pairs, totaling approximately 10.8 hours of episodes (totaling 2,328,054 frames), with videos varying in length from 270 to 5,101 frames as detailed in Figure. The dataset will be publicly released following the article's acceptance to facilitate the E2VG research.
+<p align="center">
+    <img src="./examples/dataset_scene_object.jpg" width=50%>
+</p>
 
 
 
