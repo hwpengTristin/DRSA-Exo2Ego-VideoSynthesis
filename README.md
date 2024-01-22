@@ -6,3 +6,4 @@ For cue-free E2VG problem, we propose a cue-free video-based approach termed hie
 <p align="center">
     <img src="./examples/dataset_scene_object.jpg" width=99%>
 </p>
+Some examples of scenarios and interacting objects from the DSO ExoEgo dataset. Zoom in for details.
