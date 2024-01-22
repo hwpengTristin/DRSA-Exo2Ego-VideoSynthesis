@@ -12,7 +12,7 @@ Our dataset includes 819 exo-ego video pairs, totaling approximately 10.8 hours 
 The length of the video varies from 270 frames to 5,101 frames, as shown in the figure below. The dataset will be publicly released following the article's acceptance to facilitate the E2VG research.
 
 <p align="center">
-    <img src="./examples/dataset_scene_object.jpg" width=50%>
+    <img src="./examples/video_frame_distribution.png" width=50%>
 </p>
 
 
