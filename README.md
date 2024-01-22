@@ -25,3 +25,6 @@ Some examples of exocentric and egocentric video pairs from the DSO ExoEgo datas
 
 ## Experiments Results
 
+## Inference and Training Code
+
+The code is in preparation and will be open soon. Please stay tuned!
