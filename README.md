@@ -15,5 +15,13 @@ The length of the video varies from 270 frames to 5,101 frames, as shown in the 
     <img src="./examples/video_frame_distribution.png" width=50%>
 </p>
 
+Some examples of exocentric and egocentric video pairs from the DSO ExoEgo dataset.
+
+<p align="center">
+    <img src="./examples/pair2_lr.gif" width=33%>
+    <img src="./examples/pair1_lr.gif" width=33%>
+    <img src="./examples/pair3_lr.gif" width=33%>
+</p>
+
 
 
