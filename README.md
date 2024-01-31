@@ -25,6 +25,13 @@ Some examples of exocentric and egocentric video pairs from the DSO ExoEgo datas
 
 ## Experiments Results
 
+Transformation of video from exocentric to egocentric viewpoints using various methods on the Assembly101 dataset. Upper part: method with target-view cues. Bottom part: method without target-view cues.
+
+<p align="center">
+    <img src="./examples/different_methods_genvideos.gif" width=99%>
+</p>
+
+
 ## Inference and Training Code
 
 The code is in preparation and will be open soon. Please stay tuned!
