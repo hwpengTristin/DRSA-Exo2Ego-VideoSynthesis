@@ -42,7 +42,7 @@ The code is in preparation and will be open soon. Please stay tuned!
 @INPROCEEDINGS{,
   author    = {xxx},
   booktitle = {xxx},
-  title     = {Hierarchical Dynamic Memory Refinement and Semantic Alignment for Exo-to-Ego Cross-view Video Generation},
+  title     = {Cascaded Dynamic Memory Refinement and Semantic Alignment for Exo-to-Ego Cross-view Video Generation},
   year      = {xxxx},
 }
 ```
