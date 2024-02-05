@@ -3,7 +3,7 @@ For cue-free Exocentric-to-Egocentric cross-view Video Generation (E2VG) problem
 
 ## DSO ExoEgo Dataset
 
-Our dataset includes 819 exo-ego video pairs, totaling approximately 10.8 hours of episodes (totaling 2,328,054 frames). Here shows some examples of scenarios and interacting objects from the Dynamic Scenes and interacting Objects Exo-Ego (DSO ExoEgo) dataset. Zoom in for details.
+Our dataset includes 819 exo-ego video pairs, totaling approximately 10.8 hours of episodes (2,328,054 frames). Here shows some examples of scenarios and interacting objects from the Dynamic Scenes and interacting Objects Exo-Ego (DSO ExoEgo) dataset. Zoom in for details.
 
 <p align="center">
     <img src="./examples/dataset_scene_object.jpg" width=99%>
