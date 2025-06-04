@@ -9,12 +9,6 @@ Our dataset includes 819 exo-ego video pairs, totaling approximately 10.8 hours 
     <img src="./examples/dataset_scene_object.jpg" width=99%>
 </p>
 
-The length of the video varies from 270 frames to 5,101 frames, as shown in the figure below. The dataset will be publicly released following the article's acceptance to facilitate the E2VG research.
-
-<p align="center">
-    <img src="./examples/video_frame_distribution.png" width=50%>
-</p>
-
 Some examples of exocentric and egocentric video pairs from the DSO ExoEgo dataset.
 
 <p align="center">
