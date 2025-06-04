@@ -37,7 +37,7 @@ The code is being prepared and will be open as soon as the paper is accepted. Pl
 ## Citation
 
 ```BibTeX
-@INPROCEEDINGS{,
+@INPROCEEDINGS{
   author    = {Weipeng Hu, Jiun Tian Hoe, Jianhui Li, Haifeng Hu, Xudong Jiang, Yap-Peng Tan},
   booktitle = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
   title     = {Cascaded Dynamic Memory Refinement and Semantic Alignment for Exo-to-Ego Cross-view Video Generation},
