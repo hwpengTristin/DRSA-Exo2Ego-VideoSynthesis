@@ -23,6 +23,10 @@ Some examples of exocentric and egocentric video pairs from the DSO ExoEgo datas
     <img src="./examples/pair3_lr.gif" width=33%>
 </p>
 
+Some videos in the DSO ExoEgo dataset reveal the complete facial appearance of participants (without mask or hat). In order to safeguard participant privacy, such videos have been withheld from public release.
+
+The DSO ExoEgo dataset is available for download via both Google Drive and Baidu Cloud to facilitate accessibility.
+
 ## Experiments Results
 
 Transformation of video from exocentric to egocentric viewpoints using various methods on the Assembly101 dataset. Upper part: method with target-view cues. Bottom part: method without target-view cues.
