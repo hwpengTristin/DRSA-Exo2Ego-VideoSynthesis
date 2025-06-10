@@ -25,6 +25,9 @@ To access the DSO ExoEgo dataset for academic use, users must first sign the Dat
 </a> 
 
 Upon approval of the signed agreement, the DSO ExoEgo dataset can be downloaded via Google Drive.
+<a href="https://drive.google.com/file/d/1fycEfRNW0yCfcmP77m4biXUcY4XELzus/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Download-Dataset-green" alt="Download Dataset">
+</a> 
 
 ## Experiments Results
 
