@@ -49,6 +49,12 @@ Transformation of video from exocentric to egocentric viewpoints using various m
     <img src="./DRSA/synthesizedImages_dso_exoego.jpg" width=99%>
 </p>
 
+Performance analysis under dynamic background on the DSO ExoEgo dataset.
+
+<p align="center">
+    <img src="./DRSA/dynamic_background.jpg" width=99%>
+</p>
+
 Transformation results of video examples on the Assembly101 dataset.
 
 <p align="center">
