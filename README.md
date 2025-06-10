@@ -40,6 +40,18 @@ Upon approval of the signed agreement, the DSO ExoEgo dataset can be downloaded 
 Transformation of video from exocentric to egocentric viewpoints using various methods on the Assembly101 dataset. Upper part: method with target-view cues. Bottom part: method without target-view cues.
 
 <p align="center">
+    <img src="./DRSA/synthesizedImages.jpg" width=99%>
+</p>
+
+Transformation of video from exocentric to egocentric viewpoints using various methods on the DSO ExoEgo dataset. Upper part: method with target-view cues. Bottom part: method without target-view cues.
+
+<p align="center">
+    <img src="./DRSA/synthesizedImages_dso_exoego.jpg" width=99%>
+</p>
+
+Transformation results of video examples on the Assembly101 dataset.
+
+<p align="center">
     <img src="./examples/different_methods_genvideos.gif" width=99%>
 </p>
 
