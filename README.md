@@ -19,14 +19,12 @@ Some examples of exocentric and egocentric video pairs from the DSO ExoEgo datas
 
 Some videos in the DSO ExoEgo dataset reveal the complete facial appearance of participants (without mask or hat). In order to safeguard participant privacy, such videos have been withheld from public release.
 
-The DSO ExoEgo dataset is available for academic use on a case-by-case basis. To obtain access, you must first sign the dataset release agreement.
+To access the DSO ExoEgo dataset for academic use, users must first sign the Dataset Release Agreement.
 <a href="https://github.com/hwpengTristin/DRSA-Exo2Ego-VideoSynthesis/blob/main/DSOExOEgO_RELEASE_AGREEMENT.pdf">
     <img src="https://img.shields.io/badge/Download-Release_Agreement-blue" alt="Download Agreement">
-</a> Note: Access will not be granted unless the agreement is signed and approved.
+</a> 
 
-
-
-The DSO ExoEgo dataset is available for download via both Google Drive and Baidu Cloud to facilitate accessibility.
+Upon approval of the signed agreement, the DSO ExoEgo dataset can be downloaded via Google Drive.
 
 ## Experiments Results
 
