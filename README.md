@@ -61,6 +61,19 @@ Transformation results of video examples on the Assembly101 dataset.
     <img src="./examples/different_methods_genvideos.gif" width=99%>
 </p>
 
+Quantitative results on three datasets.
+
+<p align="center">
+    <img src="./DRSA/quantitative_result1.jpg" width=99%>
+</p>
+
+<p align="center">
+    <img src="./DRSA/quantitative_result2.jpg" width=99%>
+</p>
+
+<p align="center">
+    <img src="./DRSA/quantitative_result3.jpg" width=99%>
+</p>
 
 ## Inference and Training Code
 
