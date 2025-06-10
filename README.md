@@ -1,6 +1,12 @@
 # DRSA-Exo2Ego-Video Synthesis
 For cue-free Exocentric-to-Egocentric cross-view Video Generation (E2VG) problem, we propose a cue-free video-based approach termed cascaded Dynamic memory Refinement and Semantic Alignment (DRSA). Moreover, we create a new DSO ExoEgo dataset with dynamic exocentric scenes and rich interacting objects to further promote the E2VG research.
 
+The DRSA consists of three key components: Dynamic Memory Refinement (DMR), Viewpoint-aware Semantic Alignment (VSA), and Cascaded Alignment and Refinement (CAR), which leverages progressive processing of long-horizon temporal knowledge and semantic alignment for high fidelity cross-view generation.
+
+<p align="center">
+    <img src="./DRSA/DRSA_flowchart.jpg" width=99%>
+</p>
+
 ## Download DSO ExoEgo Dataset
 
 Our dataset includes 819 exo-ego video pairs, totaling approximately 10.8 hours of episodes (2,328,054 frames). Here shows some examples of scenarios and interacting objects from the Dynamic Scenes and interacting Objects Exo-Ego (DSO ExoEgo) dataset. Zoom in for details.
