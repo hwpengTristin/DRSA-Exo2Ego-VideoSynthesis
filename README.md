@@ -22,9 +22,7 @@ Some videos in the DSO ExoEgo dataset reveal the complete facial appearance of p
 The DSO ExoEgo dataset is available for academic use on a case-by-case basis. To obtain access, you must first sign the dataset release agreement.
 <a href="https://github.com/hwpengTristin/DRSA-Exo2Ego-VideoSynthesis/blob/main/DSOExOEgO_RELEASE_AGREEMENT.pdf">
     <img src="https://img.shields.io/badge/Download-Release_Agreement-blue" alt="Download Agreement">
-</a>
-
-Note: Access will not be granted unless the agreement is signed and approved.
+</a> Note: Access will not be granted unless the agreement is signed and approved.
 
 
 
