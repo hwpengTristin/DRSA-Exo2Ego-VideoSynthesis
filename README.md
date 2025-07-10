@@ -79,6 +79,8 @@ Quantitative results on three datasets.
 
 The code is being prepared and will be open as soon as the paper is accepted. Please stay tuned!
 
+Acknowledgement: This repository partially builds upon [FGT](https://github.com/hitachinsk/FGT)
+
 ## Citation
 
 ```BibTeX
